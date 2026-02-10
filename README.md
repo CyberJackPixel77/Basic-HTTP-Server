@@ -5,13 +5,13 @@
 -----
 [🇷🇺 Russian version](README_RU.md) | [🇺🇸 English Version](README.md)
 ## Contents:
-* [Technical Component of the Server](#technical-component-of-the-server)
-* [Server Functionality](#brief-on-the-features-and-functionality-of-the-server)
+* [Technical Component of the Server](#technical-components-of-the-server)
+* [Server Functionality](#brief-overview-of-server-capabilities-and-functionality)
 * [Request Filtering](#request-filtering-system)
 * [Request Specifics](#request-specifics)
 * [Technical Supplements about the Server](#technical-information-about-the-server)
 * [Server Architecture (L0-L6)](#server-architecture)
-* [Attitude to the Project and Advice for Searchers](#personal-attitude-towards-the-project-and-advice-for-the-future)
+* [Attitude to the Project and Advice for Searchers](#personal-attitude-to-the-project-and-advice-for-the-future)
 * [Server Testing](#how-to-test-the-server)
 * [Assembly project](#how-to-build-from-source)
 * [Usage nuances](#important-information-for-use)
