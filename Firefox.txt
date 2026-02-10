@@ -1,0 +1,2 @@
+THIS IS FIREFOX.TXT FILE INSIDES
+This file can be opened only with 'User-Agent: Mozilla'

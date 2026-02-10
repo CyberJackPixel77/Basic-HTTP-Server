@@ -1,0 +1,8 @@
+# This file contains the mappings of IP addresses to host names.
+# use '#' symbol for comments
+#
+#	IP-ADDR         Domain-name
+#       ---------------------------
+#	127.0.0.1       localhost
+#	::1             localhost
+#
