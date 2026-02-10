@@ -1,2 +1,0 @@
-THIS IS FILE1.TXT FILE INSIDES
-This file can't be opened with 'Accept-Language: en-US'.
