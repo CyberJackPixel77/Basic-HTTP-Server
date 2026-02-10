@@ -1,2 +1,0 @@
-THIS IS CHROME.TXT FILE INSIDES
-This file can be opened only with 'User-Agent: Google'.
